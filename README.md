@@ -1,4 +1,4 @@
-# GitHub Actions Example: Node.js App
+# GitHub Actions for Node.js App
 
 This project demonstrates how to use GitHub Actions for CI/CD automation.
 
